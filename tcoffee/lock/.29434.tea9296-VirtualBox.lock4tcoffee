@@ -1,0 +1,2 @@
+29425 -SHELL- /home/tea9296/Downloads/tcoffee-server-prod/bundles/bigtree/bigbigtree_v1.0/tcoffee/tmp/t_coffee.tmp/tmp.tea9296-VirtualBox.29425/938529425_1_TCtmp.pl -seq aa_fasta/cluster.fasta -multi_core no +keep_name -output fasta_aln -mode fmcoffee -outfile alns/cluster_aa.fasta_aln -type_only >9383.tmp  (tc)
+29435

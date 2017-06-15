@@ -1,0 +1,10 @@
+DOC Muscle [http://www.drive5.com/muscle/]
+EXECUTABLE muscle
+ALN_MODE   multiple
+OUT_MODE   aln
+IN_FLAG    -in&bnsp
+OUT_FLAG   -out&bnsp
+PARAM      -quiet&bnsp-maxmb&bnsp0&bnsp>/dev/null
+SEQ_TYPE   S
+ADDRESS    http://www.drive5.com/muscle/
+PROGRAM    muscle
